@@ -37,16 +37,6 @@ Deep-learning pipeline for EEG-based cognitive workload classification. CNN-LSTM
 
 ---
 
-## 👥 Group Projects
-
-Re-uploaded with full team permission. Each repo's README names every teammate and clearly states my specific contribution.
-
-- **SentinelDrift** — ML drift-detection system (team of 4). _Original repo:_ [Ayoung-14/sentineldrift](https://github.com/Ayoung-14/sentineldrift)
-- **FAIDM Group Project** — Group diabetes-risk study (continuation of my [solo project](https://github.com/dilaraBy/diabetes-risk-prediction)). _Original repo:_ [AdamOkeah/FAIDM-Group-Assignment](https://github.com/AdamOkeah/FAIDM-Group-Assignment)
-- **Student Data System** — University coursework group project. _Repo:_ [Ziro21/Student-data-system](https://github.com/Ziro21/Student-data-system)
-
----
-
 ## 📫 Get in touch
 
 - 📧 **dilarabayram@outlook.com.tr**
