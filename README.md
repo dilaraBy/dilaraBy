@@ -4,7 +4,7 @@
 
 Open to **AI Engineer / ML Engineer / Junior Product Manager** roles.
 
-📫 **dilarabayram@outlook.com.tr** · 🔗 [LinkedIn](https://www.linkedin.com/in/) <!-- TODO: paste your full LinkedIn URL here -->
+📫 **dilarabayram@outlook.com.tr** · 🔗 [LinkedIn](https://www.linkedin.com/in/dilarabayram/)) <!-- TODO: paste your full LinkedIn URL here -->
 
 ---
 
